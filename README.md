@@ -1,4 +1,5 @@
-## [Latest Release](https://ci.appveyor.com/project/shadowbrony33/destroy-windows-10-spying/build/artifacts)
+[![Build status](https://ci.appveyor.com/api/projects/status/gfajeslpfh5ec0yi/branch/master?svg=true)](https://ci.appveyor.com/project/shadowbrony33/destroy-windows-10-spying/branch/master)
+
 
 # Destroy Windows 10 Spying
 
