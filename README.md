@@ -1,4 +1,4 @@
-## [Latest Release](http://renessans.bz/)
+## [Latest Release](https://ci.appveyor.com/project/shadowbrony33/destroy-windows-10-spying/build/artifacts)
 
 # Destroy Windows 10 Spying
 
